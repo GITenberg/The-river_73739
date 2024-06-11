@@ -1,0 +1,39 @@
+_repo: The-river_73739
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Riesenberg, Sidney H.
+    aliases:
+    - Riesenberg, S. H.
+    - Riesenberg, S.H.
+    birthdate: 1885
+    deathdate: 1971
+    gutenberg_agent_id: '45328'
+    url: http://www.gutenberg.org/2009/agents/45328
+    wikipedia: https://en.wikipedia.org/wiki/Sidney_Riesenberg
+creator:
+  author:
+    agent_name: Aiken, Ednah
+    gutenberg_agent_id: '57204'
+    url: http://www.gutenberg.org/2009/agents/57204
+description: ''
+gutenberg_issued: '2024-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73739'
+language: en
+pgterms:marc904: https://archive.org/details/theriver00aikerich
+pgterms:marc905: 20200227152645aiken
+pgterms:marc906: '1914'
+pgterms:marc907: US
+production_note: Richard Hulse, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aIndianapolis :$bThe Bobbs-Merrill Company, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The river
+url: http://www.gutenberg.org/ebooks/73739
