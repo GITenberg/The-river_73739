@@ -11,12 +11,17 @@ contributor:
     gutenberg_agent_id: '45328'
     url: http://www.gutenberg.org/2009/agents/45328
     wikipedia: https://en.wikipedia.org/wiki/Sidney_Riesenberg
+covers:
+- cover_type: archival
+  image_path: 73739-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Aiken, Ednah
     gutenberg_agent_id: '57204'
     url: http://www.gutenberg.org/2009/agents/57204
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73739#The-river
 gutenberg_issued: '2024-05-31'
 gutenberg_type: Text
 identifiers:
